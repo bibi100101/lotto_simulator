@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\bin\Debug\net6.0\Nowy folder.exe
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\bin\Debug\net6.0\Nowy folder.deps.json
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\bin\Debug\net6.0\Nowy folder.runtimeconfig.json
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\bin\Debug\net6.0\Nowy folder.dll
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\bin\Debug\net6.0\Nowy folder.pdb
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.dll
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\refint\Nowy folder.dll
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.pdb
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\Nowy folder.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Pulpit\Projekty\Skrypty\C#\Nowy folder\obj\Debug\net6.0\ref\Nowy folder.dll
